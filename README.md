@@ -7,7 +7,7 @@
 ### 1. DNS Shop (`/dns`)
 Интернет-магазин электроники.
 -   [Избыточные сетевые запросы при фильтрации](dns/bug_reports/bug-1_redundant_requests_static_filters.md)
--   [Неработающая корзина при выключенном JS](dns/bug_reports/bug-2_uncklickable_cart_no_js.md)
+-   [Неработающая корзина при выключенном JS](dns/bug_reports/bug-2_unclickable_cart_no_js.md)
 -   [Проблема адаптивной верстки в корзине](dns/bug_reports/bug-3_maladaptive_layout_cart.md)
 -   [Отсутствие фильтра Thunderbolt (Major)](dns/bug_reports/bug-4_missing_thunderbolt_filter.md)
 
